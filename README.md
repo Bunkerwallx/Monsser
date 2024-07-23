@@ -12,6 +12,8 @@ beautifulsoup4
 requests
 scrapy
 wappalyzer
+tensorflow
+keras
 
 ```
 ### Licencia
